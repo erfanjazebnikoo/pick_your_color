@@ -1,6 +1,7 @@
-# flutter_hsvcolor_picker
+# pick_your_color
 
-A HSV color picker for your flutter app.
+A RGB/HSV color picker for your flutter app.
+
 RGB HSV Wheel Hue Saturation Values.
 ![](https://github.com/fluttercandies/flutter_hsvcolor_picker/blob/master/screenshot/phone.png)
 
